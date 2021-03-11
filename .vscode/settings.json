@@ -4,5 +4,10 @@
   "editor.tabSize": 4,
   "editor.insertSpaces": false,
   "editor.detectIndentation": false,
-  "files.eol": "\n"
+"files.eol": "\n",
+"files.associations": {
+	"stdio.h": "c",
+	"toup.h": "c",
+	"stdlib.h": "c"
+}
 }
