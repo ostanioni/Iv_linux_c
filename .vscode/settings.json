@@ -1,0 +1,8 @@
+{
+  "editor.fontSize": 21,
+  "terminal.integrated.fontSize": 15,
+  "editor.tabSize": 4,
+  "editor.insertSpaces": false,
+  "editor.detectIndentation": false,
+  "files.eol": "\n"
+}
