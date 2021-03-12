@@ -7,7 +7,8 @@
 "files.eol": "\n",
 "files.associations": {
 	"stdio.h": "c",
-	"toup.h": "c",
-	"stdlib.h": "c"
+	"stdlib.h": "c",
+	"stdint.h": "c",
+	"unistd.h": "c"
 }
 }
