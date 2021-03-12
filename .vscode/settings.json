@@ -4,6 +4,7 @@
   "editor.tabSize": 4,
   "editor.insertSpaces": false,
   "editor.detectIndentation": false,
+  "workbench.colorTheme": "Tomorrow Night Blue",
 "files.eol": "\n",
 "files.associations": {
 	"stdio.h": "c",
